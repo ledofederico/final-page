@@ -1,0 +1,68 @@
+body{
+  text-align: center;
+  /*font-family: 'Advent Pro', sans-serif;*/
+}
+
+h1{
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 5rem;
+  margin: 3% auto auto auto;
+}
+
+h2{
+  font-family: 'Audiowide', cursive;
+  font-size: 3rem;
+  margin: 2% auto 2% auto;
+}
+
+h3{
+  font-family: 'Grandstander', cursive;
+}
+
+#header{
+  padding: 1% 5% 50px 2%;
+  background-color: #e6f6ff;
+}
+
+#sobreMi{
+  padding: 1% 3% 50px 3%;
+  background-color: #e6ffea;
+  /*margin: auto auto 50px auto;*/
+}
+
+#CVyProy{
+  padding: 1% 3% 50px 3%;
+  background-color: #e6f6ff;
+}
+
+#contacto{
+  padding: 1% 3% 50px 3%;
+  background-color: #e6ffea;
+}
+
+#sobreMiP{
+  text-align: left;
+  margin: auto 20% auto 20%;
+  font-size: 18px;
+  line-height: 1.5em;
+}
+
+.think-img{
+  float: left;
+  width: 10%;
+  margin: -50px auto auto auto;
+}
+
+.programming-img{
+  float: right;
+  width: 10%;
+  margin: -50px auto auto auto;
+}
+
+.cv-btn{
+  padding: 5px 25px;
+}
+
+.pr-btn{
+  padding: 5px 25px;
+}
